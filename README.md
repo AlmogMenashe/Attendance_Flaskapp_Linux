@@ -6,4 +6,6 @@ runAttendance.py - Filtering information in a database local.
 
 app.py - Our web app
 
+sftp.py - Connecting to the course server, adding a password in the file is required
+
 Open read.txt and follow the instructions Commands in Linux
