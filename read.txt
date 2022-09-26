@@ -1,0 +1,13 @@
+# Open the terminal
+# Type the following commands:
+cd apps
+bash runtask.sh 
+docker-compose build
+docker-compose up
+# Open firefox 
+# write http://127.0.0.1:5000/
+# close - write on terminal
+Ctrl+C
+docker-compose down
+# to exit
+Ctrl+D
