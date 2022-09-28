@@ -1,5 +1,7 @@
 # Attendance_Flaskapp_Linux
 
+Brief explanation: this application uses CSV data from the Webex recordings, we take the table and analyze it to check the comfort of the students in the course according to the virtual lessons
+
 sftp.py - Connecting to the course server to download CSV files, adding a password in the file is required.
 
 attendance.py - attentdance algorithm from yona bloy (https://github.com/natibloy/bynet).
